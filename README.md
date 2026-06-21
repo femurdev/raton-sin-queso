@@ -1,6 +1,5 @@
 # Ratón Sin Queso
 *A mouse without cheese*
-Onshape Link
 # Where is it
 A mouse whose hardware was hand-picked to squeeze as much performance out of it as possible. It is not light and not cheap, but I’ve got forearms so that don’t matter. As of writing this, I have it working over a wired connection but plan to implement Bluetooth protocols in the coming days.
 ## Who is it
